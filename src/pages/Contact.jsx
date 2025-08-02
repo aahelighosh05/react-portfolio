@@ -54,7 +54,7 @@ function Contact() {
       <p className="socials poppins-regular">Socials:</p>
       <div className="linkedin-icon">
         <a
-        href="https://www.linkedin.com/in/aaheli-ghosh-undefined-b57a49377"
+        href="https://www.linkedin.com/in/aaheli-ghosh-b57a49377"
         target="_blank"
         rel="noopener noreferrer"
         >
