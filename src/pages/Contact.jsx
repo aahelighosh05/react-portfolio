@@ -69,7 +69,7 @@ function Contact() {
 
       <div className="illustration-container">
         <div className="contact-illustration">
-          <img src="/undraw_begin_chat.svg" alt="Contact Illustration" />
+          <img src={`${import.meta.env.BASE_URL}undraw_begin_chat.svg`} />
         </div>
       </div>
     </div>
